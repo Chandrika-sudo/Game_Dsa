@@ -163,8 +163,8 @@ This game was built with love for my sister's coding journey. Remember:
 
 <div align="center">
 
-**Made with ❤️ by [Your Name]**
+**Made with ❤️ by chandrika-sudo**
 
-[⭐ Star this repo](https://github.com/yourusername/dsa-coding-game) if you found it helpful!
+⭐ Star this repo (https://github.com/chandrika-sudo/dsa-coding-game) if you found it helpful!
 
 </div>
